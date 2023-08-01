@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+
+
+html{
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 24px;
+}
+h1{
+    font-size: 48px;
+}
+p{
+    font-size: 18px;
+}
+button{
+    font-size: 14px;
+}
+
+img{
+    height: 238px;
+    width: 286.83px;
+}
+
+.imgContainer{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
